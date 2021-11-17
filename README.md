@@ -1,1 +1,1 @@
-# Linear-Model-Week2
+# Linear Model Week2
